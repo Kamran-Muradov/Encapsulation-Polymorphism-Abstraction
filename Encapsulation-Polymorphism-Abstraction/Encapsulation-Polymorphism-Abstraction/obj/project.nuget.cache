@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LWYQrdQK1f1t79MSM/lDIKFxL0zNiNKZ6FmC7wffelbVyt8IU0ZfK1N8gxmmlRFMKLVIToGZQiMWx8Fcgpw9Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace Code Academy\\Encapsulation-Polymorphism-Abstraction\\Encapsulation-Polymorphism-Abstraction\\Encapsulation-Polymorphism-Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Encapsulation-Polymorphism-Abstraction-Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28FB1D39-6034-48AD-A8D4-E8269C05D6F6}|Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework.csproj|c:\\workspace code academy\\encapsulation-polymorphism-abstraction-homework\\encapsulation-polymorphism-abstraction-homework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FB1D39-6034-48AD-A8D4-E8269C05D6F6}|Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework.csproj|solutionrelative:encapsulation-polymorphism-abstraction-homework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FB1D39-6034-48AD-A8D4-E8269C05D6F6}|Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework.csproj|c:\\workspace code academy\\encapsulation-polymorphism-abstraction-homework\\encapsulation-polymorphism-abstraction-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FB1D39-6034-48AD-A8D4-E8269C05D6F6}|Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework.csproj|solutionrelative:encapsulation-polymorphism-abstraction-homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Encapsulation-Polymorphism-Abstraction-Homework\\Models\\User.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework\\Models\\User.cs",
+              "RelativeToolTip": "Encapsulation-Polymorphism-Abstraction-Homework\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:54:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation-Polymorphism-Abstraction-Homework\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Encapsulation-Polymorphism-Abstraction-Homework\\Encapsulation-Polymorphism-Abstraction-Homework\\Program.cs",
+              "RelativeToolTip": "Encapsulation-Polymorphism-Abstraction-Homework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:54:14.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
